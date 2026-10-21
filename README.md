@@ -3,9 +3,9 @@
 #include <HTTPClient.h>
 #include "Audio.h"
 
-const char* WIFI_SSID = "SANSHO VN - ASSEMBLY";
-const char* WIFI_PASS = "fact#123";
-const char* WEBAPP    = "https://script.google.com/macros/s/AKfycbwgQfqn6W0l2jnekMbe64qktY2N5U9reqA0rQde_7-UHYJlfVPQb2c3LrIuL5ErzeOqww/exec?action=latest";
+const char* WIFI_SSID = "ABCDEF";
+const char* WIFI_PASS = "123456789";
+const char* WEBAPP    = "https://??????????????????????????????????????????????????///exec?action=latest";
 
 #define I2S_BCLK 15
 #define I2S_LRC  16
